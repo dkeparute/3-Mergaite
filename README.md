@@ -29,4 +29,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 ## Authors
 Student | Description
 ------- | -----------
-Dovile Keparute | Homework No.2
+Dovile Keparute | Homework No.2 "Mergaite"
