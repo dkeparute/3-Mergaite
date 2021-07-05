@@ -6,7 +6,8 @@
 # Homework "Mergaite"
 ## About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This is one of the projects that we are making during the Javascript trainings. 
+ This project performed for educational porpuses only.
 
 Site published at https://dkeparute.github.io/3-Mergaite/
 
