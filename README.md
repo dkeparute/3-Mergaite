@@ -9,7 +9,7 @@
 This is one of the projects that we are making during the Javascript trainings. 
  This project performed for educational porpuses only.
 
-Site published at https://dkeparute.github.io/3-Mergaite/
+Site published at https://dkeparute.github.io/Mergaite/
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 ![Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
